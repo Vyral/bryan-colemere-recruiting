@@ -1,6 +1,6 @@
 audit_header: false
-title: "-- MARKET --'s Best Real Estate Training"
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: "Utah's Best Real Estate Training"
+description: Bryan Colemere, a top Real Estate Agent in Utah, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
@@ -10,26 +10,26 @@ custom_links:
   - title: Free Strategy Call
     url: /contact/
 client:
-  name:
+  name: Bryan Colemere
   title:
   license_number:
   about_markdown: |
-
-  market:
-  brand:
+    Hi! I am Bryan Colemere, co-owner of Colemere Realty and a Third Generation Realtor, Colemere Realty has been selling real estate in Utah for 66 years. I dedicate Utah Real Estate Top Producer to all Realtors aspiring to do more; not only in the pursuit to earn a living, but in taking the service they provide their clients to the next level. Two years ago I had a vision to build a Real Estate Team in Utah by focusing on 2 things: First, by helping make each agent on my team better by offering 30 leads a month, weekly training, coaching, and accountability, and second, by remembering that our primary goal must always be to provide the best service possible to the clients with whom we serve! By making these our priority our team has tripled its number of sales over the past few years. My hope for this Mastermind is that it provides a community in which agents aspiring to do more can trade ideas, ask questions, and post concerns in and around the real estate industry in the Salt Lake & Surrounding areas. I want to give back, not only to my team, but to anyone seeking to be more.
+  market: Utah
+  brand: Colemere Realty
   brokerage:
-  address:
-  phone:
+  address: 9661 S 700 E Sandy, Ut 84070
+  phone: 801-699-4266
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: info@colemererealty.com
+  url: http://utahtopproducers.com
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "Looking to Build Your Real Estate Career?"
-    CTA_text: "Let's talk about how -- CLIENT BRAND -- can take your business to new heights."
+    CTA_text: "Let's talk about how Colemere Realty can take your business to new heights."
     CTA_link_text: "Free Strategy Session"
     CTA_url: /contact/
 
@@ -54,11 +54,10 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: 'https://www.facebook.com/Colemere-Realty-Associates-207059249365713/'
+  linkedin_url: 'https://www.linkedin.com/in/bryan-colemere-21b4a03/'
+  youtube_url: 'https://www.youtube.com/channel/UC3MPsAkkbFjc6lNxgDshMLQ'
+  twitter_url: 'https://twitter.com/bryancolemere'
   instagram_url:
   pinterest_url:
   zillow_url:
@@ -67,25 +66,25 @@ socials:
   podcast_url:
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: 'Utah Real Estate Podcast with Bryan Colemere'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: '-- CLIENT NAME --'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Utah Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Colemere Realty - your professional Utah Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author: 'Bryan Colemere'
 
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: Utah Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#0b2972'
+  theme_color: '#0b2972'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'

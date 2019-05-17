@@ -5,9 +5,8 @@ date: 2019-05-16 00:00:00
 tags:
   - Transaction Management
 excerpt: >-
-  We’ve been selling real estate for 66 years, so we know what it takes to have
-  staying power in this business. That’s why we’ve decided to create this real
-  estate career blog.
+  We’ve been selling real estate for 66 years. That’s why we’ve decided to
+  create this real estate career blog.
 enclosure:
 pullquote:
 enclosure_type: video/mp4

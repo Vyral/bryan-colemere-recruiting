@@ -1,0 +1,24 @@
+---
+layout: post
+title: What Will Agents Learn From Our New Recruiting Blog?
+date: 2019-05-16 00:00:00
+tags:
+  - Transaction Management
+excerpt: >-
+  We’ve been selling real estate for 66 years, so we know what it takes to have
+  staying power in this business. That’s why we’ve decided to create this real
+  estate career blog.
+enclosure:
+pullquote:
+enclosure_type: video/mp4
+enclosure_time:
+use_youtube_image: false
+youtube_alternate_image: /uploads/bryan-and-scott-colemere-april-1-screen-shot-np.jpg
+youtube_code: QMhSRPgX7YM
+---
+
+{% include youtube.html %}
+
+We’ve been selling real estate for 66 years, so we know what it takes to have staying power in this business. That’s why we’ve decided to create this real estate career blog.
+
+Our company has been selling real estate for the last 66 years, so we’ve recently decided to start a real estate career blog called “Utah Real Estate Top Producers.” I’ve noticed that a lot of agents have struggled in the last five to 10 years because of changing market conditions. Each month, we’re going to showcase a new topic and detail what we’ve done to become successful as a team. We’ll cover topics such as leads, lead conversion, accountability, coaching, mentorship, changing market conditions, and more.

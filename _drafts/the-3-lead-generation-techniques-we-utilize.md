@@ -18,7 +18,7 @@ youtube_code: nncyVFHe9YU
 
 {% include youtube.html %}
 
-Our lead generation techniques help us stay at the top. Here’s what we do.
+<center>Our lead generation techniques help us stay at the top. Here’s what we do.</center>
 
 You can’t stay in business for 66 years without having some great strategies and systems in place. What drives us is simple: lead generation.
 

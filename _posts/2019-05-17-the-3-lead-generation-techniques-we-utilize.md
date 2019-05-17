@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 3 Lead Generation Techniques We Utilize
-date:
+date: 2019-05-17 00:00:00
 tags:
   - Lead Generation
 excerpt: Our lead generation techniques help us stay at the top. Here’s what we do.
@@ -18,7 +18,9 @@ youtube_code: nncyVFHe9YU
 
 {% include youtube.html %}
 
-<center>Our lead generation techniques help us stay at the top. Here’s what we do.</center>
+<center><em>Our lead generation techniques help us stay at the top. Here&rsquo;s what we do.</em></center>
+
+&nbsp;
 
 You can’t stay in business for 66 years without having some great strategies and systems in place. What drives us is simple: lead generation.
 

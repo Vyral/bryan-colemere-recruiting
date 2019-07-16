@@ -1,60 +1,69 @@
 audit_header: false
-title: "Utah's Best Real Estate Training"
-description: Bryan Colemere, a top Real Estate Agent in Utah, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: Utah's Best Real Estate Training
+description: >-
+  Bryan Colemere, a top Real Estate Agent in Utah, shares his/her own internal
+  real estate agent training for free. His/Her Real Estate Training, Tips and
+  Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
     url: /join-our-team/
   - title: Events
-    url: #
+    url:
   - title: Free Strategy Call
     url: /strategy-call/
 client:
   name: Bryan Colemere
   title:
   license_number:
-  about_markdown: |
-    Hi! I am Bryan Colemere, co-owner of Colemere Realty and a Third Generation Realtor, Colemere Realty has been selling real estate in Utah for 66 years. I dedicate Utah Real Estate Top Producer to all Realtors aspiring to do more; not only in the pursuit to earn a living, but in taking the service they provide their clients to the next level. Two years ago I had a vision to build a Real Estate Team in Utah by focusing on 2 things: First, by helping make each agent on my team better by offering 30 leads a month, weekly training, coaching, and accountability, and second, by remembering that our primary goal must always be to provide the best service possible to the clients with whom we serve! By making these our priority our team has tripled its number of sales over the past few years. My hope for this Mastermind is that it provides a community in which agents aspiring to do more can trade ideas, ask questions, and post concerns in and around the real estate industry in the Salt Lake & Surrounding areas. I want to give back, not only to my team, but to anyone seeking to be more.
+  about_markdown: >
+    Hi! I am Bryan Colemere, co-owner of Colemere Realty and a Third Generation
+    Realtor, Colemere Realty has been selling real estate in Utah for 66 years.
+    I dedicate Utah Real Estate Top Producer to all Realtors aspiring to do
+    more; not only in the pursuit to earn a living, but in taking the service
+    they provide their clients to the next level. Two years ago I had a vision
+    to build a Real Estate Team in Utah by focusing on 2 things: First, by
+    helping make each agent on my team better by offering 30 leads a month,
+    weekly training, coaching, and accountability, and second, by remembering
+    that our primary goal must always be to provide the best service possible to
+    the clients with whom we serve! By making these our priority our team has
+    tripled its number of sales over the past few years. My hope for this
+    Mastermind is that it provides a community in which agents aspiring to do
+    more can trade ideas, ask questions, and post concerns in and around the
+    real estate industry in the Salt Lake & Surrounding areas. I want to give
+    back, not only to my team, but to anyone seeking to be more.
   market: Utah
   brand: Colemere Realty
   brokerage:
-  address: 9661 S 700 E Sandy, Ut 84070
+  address: '9661 S 700 E Sandy, Ut 84070'
   phone: 801-699-4266
   phone_type:
   phone2:
   phone2_type:
   email: info@colemererealty.com
-  url: http://utahtopproducers.com
-
+  url: 'http://utahtopproducers.com'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "Looking to Build Your Real Estate Career?"
-    CTA_text: "Let's talk about how Colemere Realty can take your business to new heights."
-    CTA_link_text: "Free Strategy Session"
+    CTA_title: Looking to Build Your Real Estate Career?
+    CTA_text: >-
+      Let's talk about how Colemere Realty can take your business to new
+      heights.
+    CTA_link_text: Free Strategy Session
     CTA_url: /contact/
-
-# second_sidebar_CTA:
-#   - CTA_image_path2: /img/cta-images/002.jpg
-#     CTA_title2: "Join Our Team"
-#     CTA_text2: "Sell more homes by joining forces with the our dynamic real estate company."
-#     CTA_link_text2: "Career Info"
-#     CTA_url2: /
-
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
+  headshot_path: 'http://fillmurray.com/200/200'
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: http://eyegoop.com
-
+  url: 'http://eyegoop.com'
 socials:
   review_sm_icons: false
-  facebook_url: 'https://www.facebook.com/Colemere-Realty-Associates-207059249365713/'
+  facebook_url: 'https://www.facebook.com/utahrealestatetopproducers'
   linkedin_url: 'https://www.linkedin.com/in/bryan-colemere-21b4a03/'
   youtube_url: 'https://www.youtube.com/channel/UC3MPsAkkbFjc6lNxgDshMLQ'
   twitter_url: 'https://twitter.com/bryancolemere'
@@ -64,22 +73,32 @@ socials:
   trulia_url:
   yelp_url:
   podcast_url:
-
 podcast:
-  title: 'Utah Real Estate Podcast with Bryan Colemere'
-  categories: Education
+  title: Utah Real Estate Podcast with Bryan Colemere
+  categories:
+    - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Utah Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Colemere Realty - your professional Utah Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Utah, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: 'Bryan Colemere'
-
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the Utah Area
+    Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from Colemere Realty - your professional
+    Utah Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in Utah, home
+    selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
+  author: Bryan Colemere
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: Utah Real Estate Video Blog
-  hero_background_hex: '#999'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
@@ -88,22 +107,19 @@ site_colors:
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 navbar_colors:
   border_bottom:
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
-
+  shadow_color: 'rgba(0, 0, 0, 0)'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: transparent
+  button_background_color: 'rgba(0, 0, 0, 0)'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'

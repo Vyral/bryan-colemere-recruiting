@@ -22,4 +22,4 @@ youtube_code: QMhSRPgX7YM
 
 &nbsp;
 
-Our company has been selling real estate for the last 66 years, so we’ve recently decided to start a real estate career blog called “Utah Real Estate Top Producers.” I’ve noticed that a lot of agents have struggled in the last five to 10 years because of changing market conditions. Each month, we’re going to showcase a new topic and detail what we’ve done to become successful as a team. We’ll cover topics such as leads, lead conversion, accountability, coaching, mentorship, changing market conditions, and more.
+Our company has been selling real estate for the last 66 years, so we’ve recently decided to start a real estate career blog called “Utah Real Estate Top Producers.” We’ve noticed that a lot of agents have struggled in the last five to 10 years because of changing market conditions. Each month, we’re going to showcase a new topic and detail what we’ve done to become successful as a team. We’ll cover topics such as leads, lead conversion, accountability, coaching, mentorship, changing market conditions, and more.

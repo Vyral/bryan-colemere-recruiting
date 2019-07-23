@@ -20,17 +20,15 @@ youtube_code: nncyVFHe9YU
 
 <center><em>Our lead generation techniques help us stay at the top. Here&rsquo;s what we do.</em></center>
 
-&nbsp;
-
 You can’t stay in business for 66 years without having some great strategies and systems in place. What drives us is simple: lead generation.
 
 **We teach our agents that there are three types of leads they should be working each day:**
 
 **1\. Sphere of influence**. Many agents don’t put the members of their sphere into a database, and then they’re unable to contact them systematically. Without an organized approach, it’s difficult to receive repeat clients and referrals. We show our agents how to automate and use these powerful sources of business.
 
-**2\. Outbound prospecting**. This can be done through FSBOs, expired listings, open houses, door knocking, and simply calling around the neighborhood. We provide agents the scripts and show them how to follow up in order to convert leads into clients.
-
 {% include pullquote.html %}
+
+**2\. Outbound prospecting**. This can be done through FSBOs, expired listings, open houses, door knocking, and simply calling around the neighborhood. We provide agents the scripts and show them how to follow up in order to convert leads into clients.
 
 **3\. Internet leads**. We invest heavily in online sources and teach agents how to properly connect with them, talk with them, and convert them.
 

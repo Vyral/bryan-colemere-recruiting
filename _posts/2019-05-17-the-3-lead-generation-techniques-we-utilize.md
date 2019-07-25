@@ -28,7 +28,7 @@ You can’t stay in business for 66 years without having some great strategies a
 
 {% include pullquote.html %}
 
-**2\. Outbound prospecting**. This can be done through FSBOs, expired listings, open houses, door knocking, and simply calling around the neighborhood. We provide agents the scripts and show them how to follow up in order to convert leads into clients.
+**2\. Outbound prospecting**. This can be done through FSBOs, expired listings, open houses, door knocking, and simply calling around the neighborhood. We provide agents the scripts and show them how to follow up and convert leads into clients.
 
 **3\. Internet leads**. We invest heavily in online sources and teach agents how to properly connect with them, talk with them, and convert them.
 

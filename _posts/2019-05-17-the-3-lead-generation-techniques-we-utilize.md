@@ -20,6 +20,8 @@ youtube_code: nncyVFHe9YU
 
 <center><em>Our lead generation techniques help us stay at the top. Here&rsquo;s what we do.</em></center>
 
+&nbsp;
+
 You can’t stay in business for 66 years without having some great strategies and systems in place. What drives us is simple: lead generation.
 
 **We teach our agents that there are three types of leads they should be working each day:**

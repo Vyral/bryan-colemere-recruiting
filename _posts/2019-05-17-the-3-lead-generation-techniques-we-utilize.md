@@ -5,7 +5,8 @@ date: 2019-05-17 00:00:00
 tags:
   - Lead Generation
 excerpt: Our lead generation techniques help us stay at the top. Here’s what we do.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Recruiting+Videos/The+3+Lead+Generation+Techniques+We+Utilize.mp4
 pullquote: >-
   These are just a few ways that we take advantage of powerful lead generation
   strategies.

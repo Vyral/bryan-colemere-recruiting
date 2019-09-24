@@ -3,7 +3,7 @@ layout: post
 title: The Importance of Having a Lead Follow-Up System
 date: 2019-09-24 00:00:00
 tags:
-  - Transaction Management
+  - Lead Conversion
 excerpt: >-
   If you haven’t implemented a lead follow-up system into your real estate
   business, you’re doing yourself a disservice.
@@ -20,7 +20,9 @@ youtube_code: T16QswLiNBA
 
 {% include youtube.html %}
 
-<center>If you haven’t implemented a lead follow-up system into your real estate business, you’re doing yourself a disservice.</center>
+<center><em>If you haven&rsquo;t implemented a lead follow-up system into your real estate business, you&rsquo;re doing yourself a disservice.</em></center>
+
+&nbsp;
 
 Over the last 66 years that our team has been in business, we’ve developed a powerful set of systems that enable us to thrive; and, now, we’d like to pass some of that wisdom on to you.
 

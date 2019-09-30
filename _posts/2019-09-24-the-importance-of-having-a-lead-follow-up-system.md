@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you haven’t implemented a lead follow-up system into your real estate
   business, you’re doing yourself a disservice.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Recruiting+Videos/The+Importance+of+Having+a+Lead+Follow-Up+System.mp4
 pullquote: >-
   If you haven’t invested in some sort of follow-up system, you’re leaving
   business (and money) on the table.

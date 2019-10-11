@@ -18,7 +18,7 @@ youtube_code: IYDIw8s5np8
 
 {% include youtube.html %}
 
-It can be hard to hold yourself accountable in real estate, but Colemere Realty has a system to help.
+<center>It can be hard to hold yourself accountable in real estate, but Colemere Realty has a system to help.</center>
 
 One of the key things we’ve identified is that **it’s always easy to take the path of least resistance**. Every agent knows that the volume of your closings depends on how many contracts you write, which in turn depends on how many people you talk to. How many people you talk to depends on how many phone calls or conversations you have.
 

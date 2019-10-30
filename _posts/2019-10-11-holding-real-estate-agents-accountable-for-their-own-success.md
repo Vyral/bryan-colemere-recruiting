@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   It can be hard to hold yourself accountable in real estate, but Colemere
   Realty has a system to help.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Recruiting+Videos/Holding+Real+Estate+Agents+Accountable+for+Their+Own+Success.mp4
 pullquote: It’s extremely difficult to hold yourself accountable.
 enclosure_type: video/mp4
 enclosure_time:

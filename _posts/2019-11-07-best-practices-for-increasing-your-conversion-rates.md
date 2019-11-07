@@ -20,7 +20,7 @@ youtube_code: B3kHIE5PQcU
 
 {% include youtube.html %}
 
-<center><em>Today I’ll discuss key tips to help you increase your conversion rates. Here’s what you need to know.</em></center>
+<center><em>Today I&rsquo;ll discuss key tips to help you increase your conversion rates. Here&rsquo;s what you need to know.</em></center>
 
 <br>The first thing to know about converting leads is that you’re not going to be very good at it if you don’t practice. By that, I mean **you need to practice your scripts**. Pay attention to your tonality—how fast or slow you speak plays a huge role in your ability to connect with people and to earn their trust and loyalty. If you sound unknowledgable or aggressive on the phone, the person you’re talking to isn’t going to want to do business with you.
 

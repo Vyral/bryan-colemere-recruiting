@@ -22,9 +22,9 @@ youtube_code: B3kHIE5PQcU
 
 <center><em>Today I&rsquo;ll discuss key tips to help you increase your conversion rates. Here&rsquo;s what you need to know.</em></center>
 
-<br>The first thing to know about converting leads is that you’re not going to be very good at it if you don’t practice. By that, I mean **you need to practice your scripts**. Pay attention to your tonality—how fast or slow you speak plays a huge role in your ability to connect with people and to earn their trust and loyalty. If you sound unknowledgable or aggressive on the phone, the person you’re talking to isn’t going to want to do business with you.
+<br>The first thing to know about converting leads is that you’re not going to be very good at it if you don’t practice. By that, I mean **you need to practice your scripts**. Pay attention to your tonality—how fast or slow you speak plays a huge role in your ability to connect with people and to earn their trust and loyalty. If you sound unknowledgeable or aggressive on the phone, the person you’re talking to isn’t going to want to do business with you.
 
-Who do you want to do business with? People who respect you and your time and pay you a commission that you’re worth, or someone who will beat you up the whole time and tell you that you suck?
+Who do you want to do business with? People who respect you and your time and pay you a commission that you’re worth, or someone who will beat you up the whole time and tell you that you're awful?
 
 Next, **you should always seek out critiques** so that you can identify how you can do better. Record yourself as you make calls so you can go back and listen to them. Trust me, that might be extremely painful, but it’s better than remaining in the dark about your own shortcomings.
 

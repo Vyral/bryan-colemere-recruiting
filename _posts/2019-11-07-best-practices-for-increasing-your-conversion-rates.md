@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today I’ll discuss key tips to help you increase your conversion rates. Here’s
   what you need to know.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Recruiting+Videos/Best+Practices+for+Increasing+Your+Conversion+Rates.mp4
 pullquote: >-
   Pay attention to your tonality—how fast or slow you speak plays a huge role in
   your ability to connect with people and to earn their trust and loyalty.

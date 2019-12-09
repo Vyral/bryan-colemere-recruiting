@@ -6,7 +6,7 @@ tags:
   - Transaction Management
 excerpt: >-
   Lorna Davis recently sat down to share some of her success secrets with us.
-  Take a listen for yourself.
+  Watch our interview here!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -18,7 +18,7 @@ youtube_code: nK0TgTYhoz0
 
 {% include youtube.html %}
 
-<center><em>Lorna Davis recently sat down to share some of her success secrets with us. Take a listen for yourself.</em></center>
+<center><em>Lorna Davis recently sat down to share some of her success secrets with us. Watch our interview here!</em></center>
 
 <br>Colemere Realty is proud to have so many top-producing agents working as part of our team, and today we’ve decided to feature just one of these incredible professionals: Lorna Davis.
 

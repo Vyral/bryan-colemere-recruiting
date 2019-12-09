@@ -20,7 +20,7 @@ youtube_code: nK0TgTYhoz0
 
 <center><em>Lorna Davis recently sat down to share some of her success secrets with us. Watch our interview here!</em></center>
 
-<br>Colemere Realty is proud to have so many top-producing agents working as part of our team, and today we’ve decided to feature just one of these incredible professionals: Lorna Davis.
+<br>Colemere Realty is proud to have so many top-producing agents working as part of our team, and today we’ve decided to feature just one of these incredible professionals: <u><a target="_blank" href="https://www.colemererealty.com/agents/137015-Lorna-Davis/">Lorna Davis</a></u>.
 
 As a mother and a real estate professional, Lorna makes it a priority to keep her work-life balance in check, and the results have been astounding. On top of having an incredible family, Lorna has doubled her business each year since joining Colemere Realty.
 

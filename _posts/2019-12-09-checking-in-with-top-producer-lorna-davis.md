@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Lorna Davis recently sat down to share some of her success secrets with us.
   Watch our interview here!
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Recruiting+Videos/Checking+in+With+Top+Producer+Lorna+Davis.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:

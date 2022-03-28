@@ -36,12 +36,23 @@ client:
   brand: Colemere Realty
   brokerage:
   address: '9661 S 700 E<br />Sandy, Ut 84070'
-  phone: (801) 699-4266
+  phone: 801-699-4266
   phone_type:
   phone2:
   phone2_type:
   email: info@colemererealty.com
   url: 'http://utahtopproducers.com'
+
+CTAS:
+  cta1: Join Our Team
+  cta1_link: /join-our-team/
+  cta2: Free Newsletter
+  cta2_link: /subscribe/
+  cta3: Free Strategy Call
+  cta3_link: /strategy-call/
+  cta4: Events
+  cta4_link: /
+
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: Looking to Build Your Real Estate Career?
@@ -102,8 +113,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#0b2972'
-  theme_color: '#0b2972'
+  brand_color: '#364bb8'
+  theme_color: '#323232'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'

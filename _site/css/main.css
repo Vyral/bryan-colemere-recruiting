@@ -1400,8 +1400,8 @@ html[xmlns] .flexslider .slides {
     height: 300px; }
 
   .nav-logo-small {
-    max-width: 140px;
-    margin-top: -10px; } }
+    max-width: 100px;
+    margin-top: -17px; } }
 @media(max-width: 347px) {
   .navbar {
     padding-right: 5px;
@@ -1480,7 +1480,7 @@ label.tree-toggle {
   background-attachment: fixed;
   background-repeat: no-repeat;
   text-align: center;
-  padding-top: 7.5rem; }
+  padding-top: 5rem; }
 
 .site-logo {
   width: 90%;
@@ -2312,18 +2312,6 @@ table tr, table td {
 .client-image {
   max-width: 200px; }
 
-.agent-image-container {
-  border-radius: 50%;
-  width: 100px;
-  height: 100px;
-  border: 3px solid #364bb8;
-  overflow: hidden;
-  display: inline-block;
-  margin: auto; }
-
-.agent-image {
-  max-width: 100px; }
-
 .about-container {
   display: flex;
   justify-content: center;
@@ -2349,6 +2337,20 @@ table tr, table td {
 .contact-text {
   margin: auto; }
 
+@media(max-width: 1000px) {
+  .client-image-container {
+    width: 150px;
+    height: 150px; }
+
+  .client-image {
+    max-width: 150px; } }
+@media(max-width: 450px) {
+  .client-image-container {
+    width: 100px;
+    height: 100px; }
+
+  .client-image {
+    max-width: 100px; } }
 .footer {
   background: #323232;
   color: #fff;

@@ -127,3 +127,47 @@
 .fb-page
 	width: 70%
 	margin-left: 15%
+
+
+.quote-photo
+	float: right
+	margin: 0 20px
+
+.quote-photo2
+	float: left
+	margin: 0 20px
+
+.quote-image-container
+	border-radius: 50%
+	width: 100px
+	height: 100px
+	border: 3px solid $brand
+	// margin: 10px auto 0 6rem
+	overflow: hidden
+	display: inline-block
+	margin: auto
+
+.quote-image
+	max-width: 100px
+
+.apply-now
+	background: $brand
+	color: $light-text
+	border: 1px solid $brand
+	border-radius: 1000px
+	padding: 1rem 10rem
+	margin-top: 20px
+	text-decoration: none
+	font-size: 3rem
+	text-align: center
+	&:hover
+		background: #fff
+		color: $brand
+		border: 1px solid $brand
+	&:active
+		box-shadow: 0 0 0 $brand
+		@include transform(translateY(0rem))
+
+.apply-now>a
+	background: $brand
+	color: $light-text

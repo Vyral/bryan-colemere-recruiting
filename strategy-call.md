@@ -26,7 +26,7 @@ permalink: /strategy-call/
 
 <p>I’ll learn about your needs, goals, and why you started selling real estate. I’m happy to offer my insight on what I would do in your situation to sell more homes. </p>
 
-<p>I also share with you what we’re doing that works to generate and sales. </p>
+<p>I also share with you what we’re doing that works to generate sales. </p>
 
 <p>Once I understand how you like to do business that’s authentic to you (referral, prospecting, marketing, events, etc.), I’ll help you write a business plan tailored just for you. </p>
 
@@ -69,11 +69,11 @@ permalink: /strategy-call/
 
 <p>Let me be clear that is not the intent of the meeting. That’s another conversation for another time and only if you have any interest. </p>
 
-<p>I also figure we’ll do business together someday and I would like to get to know you. I enjoy seeing real estate agents succeed. It’s fulfilling, and I love it. </p>
+<p>I also figure we’ll do business together someday and I would like to get to know you. I enjoy seeing real estate agents succeed. It’s fulfilling, and I love it.</p>
 
 <p>I invite you to request a free one-on-one business strategy meeting with me. We can meet for coffee, or even if it’s more convenient, a phone call or a video conference works, too. </p>
 
-<p>I have a questionnaire I would like you fill out so that when we meet so I’m prepared to offer you specific advice. When you request a call, I’ll email it to you to complete before the meeting. </p>
+<p>I have a questionnaire I would like you to fill out so that when we meet I’m prepared to offer you specific advice. When you request a call, I’ll email it to you to complete before the meeting. </p>
 
 <p>Look forward to meeting with you. Let’s grow your business. </p>
 

@@ -30,7 +30,7 @@ permalink: /strategy-call/
 
 <p>Once I understand how you like to do business that’s authentic to you (referral, prospecting, marketing, events, etc.), I’ll help you write a business plan tailored just for you. </p>
 
-<p>You’ll walk away with a plan of action, with steps you can take right away, to find homeowners who list with you. </p>
+<p>You’ll walk away with a plan of action, with steps you can take right away, to find homeowners who will list with you. </p>
 
 <p>This will help you get the commission consistency and the freedom we all want from our business.</p>
 

@@ -15,9 +15,7 @@ youtube_code: fnYa5TC19ME
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}&nbsp;
-
-You’re invited to our next agent workshop\! It will be held on **August 16 from 11 a.m. to 2 p.m.** at the Sandy Lake Community College Campus. We’ll cover all things marketing and go into our marketing playbook. By following our tips and presenting yourself as a valuable resource to clients, you will create more business and improve your bottom line. **Here are just a few of the things we’ll talk about:**
+{% include excerpt.html %}&nbsp;<br>You’re invited to our next agent workshop\! It will be held on **August 16 from 11 a.m. to 2 p.m.** at the Sandy Lake Community College Campus. We’ll cover all things marketing and go into our marketing playbook. By following our tips and presenting yourself as a valuable resource to clients, you will create more business and improve your bottom line. **Here are just a few of the things we’ll talk about:**
 
 * How to properly advertise your listings to get additional buyers
 * How to advertise yourself on social media without being pushy or overbearing

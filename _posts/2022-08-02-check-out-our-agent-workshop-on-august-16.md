@@ -21,4 +21,4 @@ youtube_code: fnYa5TC19ME
 * How to advertise yourself on social media without being pushy or overbearing
 * How to plan marketing events and client events so that people come to you rather than you going to them
 
-We'd love to see you there, so if you have questions, please reach out to us by phone or email. Be sure to click here to register for the workshop.
+We'd love to see you there, so if you have questions, please reach out to us by phone or email. Be sure to [click here to register](https://www.eventbrite.com/e/bulletproof-real-estate-marketing-strategies-tickets-391914626197?utm-campaign=social&amp;utm-content=attendeeshare&amp;utm-medium=discovery&amp;utm-term=listing&amp;utm-source=cp&amp;aff=escb){: target="_blank" rel="noopener"}for the workshop.

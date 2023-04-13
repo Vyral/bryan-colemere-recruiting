@@ -1,7 +1,6 @@
 ---
 layout: post
-title: >-
-  https://coachcolemere.com/be-a-part-of-something-bigger-join-us-and-make-a-big-difference.html
+title: 'Take Your Real Estate Career To The Next Level: What Colemere Can Do for You'
 date: 2023-04-13 07:00:00
 tags:
 excerpt: Here’s what agents looking for an upgrade in their careers need to know.

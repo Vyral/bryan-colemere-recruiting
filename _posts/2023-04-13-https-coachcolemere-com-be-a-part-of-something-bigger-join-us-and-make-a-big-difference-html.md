@@ -16,4 +16,4 @@ youtube_code: 0sXUE1C1PvE
 
 {% include excerpt.html %}
 
-Why should you join Colemere Realty?&nbsp;**In a word, longevity.**&nbsp;Our company has had an established brand people trust for over 70 years, and we’d love to have you be a part of it. We offer unparalleled support to our agents; that’s why our team members thrive no matter what’s going on in the market.
+Why should you join Colemere Realty?&nbsp;**In a word, longevity.**&nbsp;Our company has had an established brand people trust for over 70 years, and we’d love to have you be a part of it. We offer unparalleled support to our agents; that’s why our team members thrive no matter what’s going on in the market.&nbsp;
